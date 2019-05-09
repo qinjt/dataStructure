@@ -9,6 +9,7 @@ from Stack import Stack
 class Stack(object):
     """
     栈的定义
+    定义
     """
     
     def __init__(self):
